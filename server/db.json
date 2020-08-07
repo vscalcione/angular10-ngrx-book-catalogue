@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "text": "Restaurant",
+      "amount": 99,
+      "category": "travel",
+      "date": 1568850246488,
+      "id": 3
+    },
+    {
+      "text": "INPS",
+      "amount": 500,
+      "category": "tax",
+      "date": 1568850246488,
+      "id": 4
+    },
+    {
+      "text": "Dog Food",
+      "amount": 35,
+      "category": "home",
+      "date": 1568865057846,
+      "id": 5
+    },
+    {
+      "text": "Nutella",
+      "amount": 4,
+      "category": "home",
+      "date": 1569154170381,
+      "id": 6
+    }
+  ]
+}
